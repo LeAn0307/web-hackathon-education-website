@@ -1,0 +1,30 @@
+.Nut {
+  background: #e99fb6;
+  border-color: #e99fb6;
+  color: black;
+  border-radius: 15px;
+  border-radius: 15px 15px;
+  border-radius: 15px 15px 15px;
+  border-radius: 15px 15px 15px;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+}
+.Nut:hover{
+  background: #A9D2FF;
+  color: #000;
+  border-color: #A9D2FF;
+}
+.form {
+  border-radius: 20px;
+  border-radius: 20px 20px;
+  border-radius: 20px 20px 20px;
+  border-radius: 20px 20px 20px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20x;
+}
+.vitri{
+margin: auto;
+/* margin-top: em; */
+max-width: 2000px;
+width: 80%;
+}

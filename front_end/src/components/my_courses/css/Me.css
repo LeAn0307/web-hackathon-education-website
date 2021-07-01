@@ -1,0 +1,15 @@
+.circle {
+  border-radius: 100%;
+  height: 200px;
+  width: 200px;
+  margin: auto;
+   margin-bottom: 5 em;
+}
+.enter {
+  display: flex;
+}
+#customers {
+  margin: auto;
+  margin-left: 10 em;
+  margin-right: 10 em;  
+}
